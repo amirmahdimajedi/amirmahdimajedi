@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amirmahdimajedi
-- 👀 I’m interested in JavaScript, Vue, React
-- 🌱 I’m currently learning elm, F#
-- 📫 How to reach me ...
+- 👀 I’m interested in JavaScript, Vue, Node.js
+- 🌱 I’m currently learning Elm
 
 <!---
 amirmahdimajedi/amirmahdimajedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
