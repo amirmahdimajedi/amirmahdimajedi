@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @amirmahdimajedi
-- 👀 I’m interested in JavaScript, Vue, Node.js
+- ❤ I love JavaScript, TypeScript, and Vue
+- 👀 I’m interested in Svelte and Node.js
 - 🌱 I’m currently learning Elm
 
 <!---
